@@ -1,4 +1,4 @@
-## har-pager
+# har-pager
 
 har-pager is a CLI utility that allows HAR [pages](http://www.softwareishard.com/blog/har-12-spec/#pages) to be recorded in such a way that they can subsequently be merged into a HAR file, captured elsewhere at the same time as the recording, that does not contain them.
 
