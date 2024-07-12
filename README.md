@@ -10,7 +10,7 @@ The HAR spec caters for associating `requests` to a parent `page` object. Althou
 
 [k6](https://k6.io) uses HAR page information to generate [groups](https://grafana.com/docs/k6/latest/using-k6/tags-and-groups/#groups) when converting HAR recordings to k6 scripts using the Import HAR functionality in Grafana Cloud k6. The main benefit of this is to make the resulting auto-generated HTTP code easier to interpret, particularly when dealing with lengthy flows with many requests.
 
-# Installation & Usage
+### Installation
 
 Make sure you have Go installed on your machine. If not, you can download it from [here](https://golang.org/dl/).
 
