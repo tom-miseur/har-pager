@@ -21,7 +21,7 @@ From source:
 
 Pre-built binaries:
 
-Coming soon.
+Can be found in [Releases](https://github.com/tom-miseur/har-pager/releases)
 
 ### Usage
 
